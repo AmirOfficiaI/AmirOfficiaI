@@ -1,10 +1,10 @@
 Amir Yusefi
 
 # Who am I?
-<img align="left" src="https://github.com/OFFICIALamir/OFFICALamir/assets/122598914/1641f0b6-724c-4ce5-8831-e7a75dec1e51">
+<img align="right" src="https://github.com/OFFICIALamir/OFFICALamir/assets/122598914/1641f0b6-724c-4ce5-8831-e7a75dec1e51">
 <h2 align="center">I'm the ONE 🦹🏻</h2>
 <p align="center">Python and Kotlin Dev 🐍 Youtuber 🦥 THE GEEK</p>
-<h2 align="right">What I use? 👨🏻‍💻</h2>
+<h2 align="left">What I use? 👨🏻‍💻</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
