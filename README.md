@@ -21,6 +21,6 @@ Amir Yusefi
 <h3 align="left">📡 HTML/CSS</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/85%25.png?raw=true" width="420" height="44.4">
 
 <h2 align="left">💻 This is what I am doing these days:</h2>
-<h4 align="left">🧑🏻‍🔬 Learning new things as much as I can!!!</h4>
-<h4 align="left">🎥 Creating Video for YT and other Social...</h4>
-<h4 align="left">📊 Buying BTC (2023 June)!!!</h4>
+<h4 align="left">🧑🏻‍🔬 Learning new things as much as I can !!!</h4>
+<h4 align="left">🎥 Creating Video for YT and other Social ...</h4>
+<h4 align="left">📊 Buying BTC (2023 June) !!!</h4>
