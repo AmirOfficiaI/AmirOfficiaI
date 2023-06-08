@@ -16,7 +16,7 @@
 <a href="https://twitter.com/Official____na"><img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/Twitter.png?raw=true" width="50" height="50"></a>
 
 <h2 align="left">🔃 Learnings in progress...</h2>
-<h3 align="left">C++</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/40%25.png?raw=true" width="280" height="60">
-<h3 align="left">JavaScript</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/65%25.png?raw=true" width="280" height="60">
-<h3 align="left">Meachine Learning</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/35%25.png?raw=true" width="280" height="29.6">
-<h3 align="left">HTML/CSS</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/85%25.png?raw=true" width="280" height="60">
+<h3 align="left">C++</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/40%25.png?raw=true" width="420" height="44.4">
+<h3 align="left">JavaScript</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/65%25.png?raw=true" width="420" height="44.4">
+<h3 align="left">Meachine Learning</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/35%25.png?raw=true" width="420" height="44.4">
+<h3 align="left">HTML/CSS</h3> <img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/85%25.png?raw=true" width="420" height="44.4">
