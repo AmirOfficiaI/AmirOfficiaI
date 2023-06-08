@@ -2,7 +2,7 @@
 
 # Who am I?
 <img align="left" src="https://github.com/OFFICIALamir/OFFICALamir/assets/122598914/1641f0b6-724c-4ce5-8831-e7a75dec1e51">
-<h2 align="center">I'm the ONE</h2>
+<h2 align="center">I'm the ONE 🦹🏻</h2>
 <p align="center">Python and Kotlin Dev 🐍 Youtuber 🦥 THE GEEK</p>
 <h2 align="right">What I use? 👨🏻‍💻</h2>
 
@@ -14,3 +14,8 @@
 <a href="https://instagram.com/codinglovers_off"><img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/Instagram.png?raw=true" width="50" height="50"></a>
 <a href="https://t.me/CodingLovers_OFF"><img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/Telegram.png?raw=true" width="50" height="50"></a>
 <a href="https://twitter.com/Official____na"><img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/Twitter.png?raw=true" width="50" height="50"></a>
+
+<h2 align="left">🔃 Learnings in progress...</h2>
+<h3 align="left">C++ - 40%</h3>
+<h3 align="left">JavaScript - 65%</h3>
+<h3 align="left">Meachine Learning - 35%</h3>
