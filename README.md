@@ -10,4 +10,4 @@
 
 <h2 align="left">🌐 Find me on:</h2>
 
-<a href="https://youtube.com/@CodingLovers"><img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/YouTube.png?raw=true"></a>
+<a href="https://youtube.com/@CodingLovers"><img src="https://github.com/OFFICIALamir/OFFICALamir/blob/main/image/YouTube.png?raw=true" width="100" height="100"></a>
