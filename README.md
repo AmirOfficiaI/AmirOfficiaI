@@ -1,5 +1,5 @@
 #Amir Yusefi
 
 ## Who am I?
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<img align="center" src="https://github.com/OFFICIALamir/OFFICALamir/assets/122598914/1641f0b6-724c-4ce5-8831-e7a75dec1e51">
 <h2 align="center">سلام من امیر یوسفی هستم</h2>
